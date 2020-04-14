@@ -2,3 +2,5 @@
 
  deleted embeded gits
 remade the repo echo
+
+ add stuff
